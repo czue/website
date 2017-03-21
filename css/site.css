@@ -1,0 +1,7 @@
+.cz-portrait {
+    max-height: 450px;
+    display :block;
+    margin: auto;
+    border-radius: 15px;
+    border: 15px solid #fff
+}
