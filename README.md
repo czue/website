@@ -2,6 +2,21 @@
 
 The source of czue.org, built in Jekyll.
 
+# Building CSS
+
+Install bulma
+
+```
+bower install bulma
+```
+
+Compile saas --> css
+
+```
+sass assets/czue.sass css/czue.css
+```
+
+
 # Deploying
 
 First build a local copy
