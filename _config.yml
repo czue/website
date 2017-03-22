@@ -13,7 +13,7 @@
 title: Cory Zue
 email: cory.zue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Cory Zue is an American software developer and technologist based in Cape Town, South Africa.
+  Cory Zue is an American software developer and technologist living in Cape Town, South Africa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: czue
