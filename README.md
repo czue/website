@@ -28,3 +28,8 @@ Then push it!
 ```
 scp -r _deploy/* czue.org:/var/www/czue/
 ```
+
+Or as a one liner:
+```
+JEKYLL_ENV=production jekyll build --destination _deploy; scp -r _deploy/* czue.org:/var/www/czue/
+```
