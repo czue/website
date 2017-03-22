@@ -3942,4 +3942,11 @@ a:hover {
 .hero.is-primary a {
   font-weight: bold; }
 
+.cz-icon a {
+  padding: 0.5em;
+  color: inherit; }
+
+.cz-icon a:hover {
+  color: #00d1b2; }
+
 /*# sourceMappingURL=czue.css.map */
