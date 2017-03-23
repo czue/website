@@ -3935,6 +3935,12 @@ a:hover {
 .site-footer {
   padding-top: 1em; }
 
+#mc_embed_signup input.mce_inline_error {
+  border-color: #ff3860 !important; }
+
+#mc_embed_signup div.mce_inline_error {
+  background-color: #ff3860 !important; }
+
 .cz-portrait {
   max-height: 450px;
   display: block;

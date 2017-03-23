@@ -1,12 +1,25 @@
 
 @import "../bower_components/bulma/bulma"
 
+// bulma overrides
+
 a
   &:hover
     text-decoration: underline
 
 .site-footer
   padding-top: 1em
+
+
+// mailchimp overrides
+
+#mc_embed_signup input.mce_inline_error
+  border-color: $red !important
+
+#mc_embed_signup div.mce_inline_error
+  background-color: $red !important
+
+// new site styles
 
 .cz-portrait
   max-height: 450px
