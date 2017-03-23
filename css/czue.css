@@ -3929,17 +3929,17 @@ label.panel-block {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem; }
 
+a:hover {
+  text-decoration: underline; }
+
+.site-footer {
+  padding-top: 1em; }
+
 .cz-portrait {
   max-height: 450px;
   display: block;
   margin: auto;
   border-radius: 20px; }
-
-a:hover {
-  text-decoration: underline; }
-
-.hero.is-primary a {
-  font-weight: bold; }
 
 .cz-icon a {
   padding: 0.5em;
