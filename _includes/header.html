@@ -16,8 +16,10 @@
           <div class="nav-right nav-menu">
             {% assign sorted_pages = site.pages | sort:"order" %}
             {% for my_page in sorted_pages %}
-               {% if my_page.title %}
-                  <a class="nav-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+               {% assign heading = my_page.heading %}
+               {% unless heading %}{% assign heading = my_page.title %}{% endunless %}
+               {% if heading %}
+                  <a class="nav-item" href="{{ my_page.url | relative_url }}">{{ heading | escape }}</a>
                {% endif %}
             {% endfor %}
           </div>
