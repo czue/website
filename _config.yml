@@ -15,6 +15,7 @@ author: Cory Zue
 email: cory.zue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Cory Zue is an American software developer and technologist living in Cape Town, South Africa.
+  He writes about his sabbatical from his CTO job as he tries to launch a product.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://czue.org" # the base hostname & protocol for your site, e.g. http://example.com
 
