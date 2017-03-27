@@ -12,49 +12,47 @@ order: 2
                     <img class="cz-portrait" src="{{ '/images/squirrel.jpg' | relative_url }}" alt="Hi, I'm Cory">
                 </figure>
             </div>
-            <div class="column">
-
-
-        <h1 class="title">The Sabbatical</h1>
-        <p>Everything I've written about the sabbatical so far.</p>
-        <ul class="cz-post-list">
-        {% for post in site.posts %}
-            {% if post.category == "sabbatical" %}
-               {% unless post.tags contains "retro" %}
-            <article class="media">
-              <figure class="media-left">
-                <p class="image is-128x128">
-                  <img src="http://bulma.io/images/placeholders/128x128.png">
-                </p>
-              </figure>
-              <div class="media-content">
-                <div class="content">
-                   <h2>
-                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><span class="cz-post-date-inline">{{ post.date | date: "%b %-d, %Y" }}</span>
-                    <br>
-                  </h2>
-                  {{ post.excerpt }}
-                </div>
-              </div>
-            </article>
-                {% endunless %}
-            {% endif %}
-        {% endfor %}
-        </ul>
-        <h2>Weekly Retros</h2>
-        <p>Weekly retrospectives about how I did with my goals, logged time, and generally how the week felt.</p>
-        <ul class="cz-post-list">
-        {% for post in site.posts %}
-            {% if post.category == "sabbatical" and post.tags contains "retro" %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
-                <span class="cz-post-date-inline"> {{ post.date | date: "%b %-d, %Y" }}</span>
-            </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
-        <p><small>subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></small></p>
-                </div>
-            </div>
+        <div class="column">
+            <h1 class="title">The Sabbatical</h1>
+            <p>Everything I've written about the sabbatical so far.</p>
+            <ul class="cz-post-list">
+            {% for post in site.posts %}
+                {% if post.category == "sabbatical" %}
+                   {% unless post.tags contains "retro" %}
+                <article class="media">
+                  <figure class="media-left">
+                    <p class="image is-128x128">
+                      <img src="http://bulma.io/images/placeholders/128x128.png">
+                    </p>
+                  </figure>
+                  <div class="media-content">
+                    <div class="content">
+                       <h2>
+                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><span class="cz-post-date-inline">{{ post.date | date: "%b %-d, %Y" }}</span>
+                        <br>
+                      </h2>
+                      {{ post.excerpt }}
+                    </div>
+                  </div>
+                </article>
+                    {% endunless %}
+                {% endif %}
+            {% endfor %}
+            </ul>
+            <h2>Weekly Retros</h2>
+            <p>Weekly retrospectives about how I did with my goals, logged time, and generally how the week felt.</p>
+            <ul class="cz-post-list">
+            {% for post in site.posts %}
+                {% if post.category == "sabbatical" and post.tags contains "retro" %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
+                    <span class="cz-post-date-inline"> {{ post.date | date: "%b %-d, %Y" }}</span>
+                </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+            <p><small>subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></small></p>
+        </div>
+        </div>
     </div>
 </section>
