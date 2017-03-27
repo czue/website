@@ -3967,10 +3967,12 @@ ul.cz-post-list {
   list-style: none;
   padding-top: 1.5em; }
 
-.cz-post-date {
+.cz-post-date, .cz-post-date-inline {
   color: #7a7a7a;
-  font-size: 0.75rem;
-  padding-left: 1em; }
+  font-size: 0.75rem; }
+
+.cz-post-date-inline {
+  padding-left: 0.5em; }
 
 .cz-post-list h2 {
   margin-top: 0.2em; }

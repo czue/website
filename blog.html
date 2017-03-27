@@ -30,7 +30,7 @@ order: 2
               <div class="media-content">
                 <div class="content">
                    <h2>
-                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><span class="cz-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><span class="cz-post-date-inline">{{ post.date | date: "%b %-d, %Y" }}</span>
                     <br>
                   </h2>
                   {{ post.excerpt }}
@@ -48,7 +48,7 @@ order: 2
             {% if post.category == "sabbatical" and post.tags contains "retro" %}
             <li>
                 <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
-                <span class="cz-post-date"> {{ post.date | date: "%b %-d, %Y" }}</span>
+                <span class="cz-post-date-inline"> {{ post.date | date: "%b %-d, %Y" }}</span>
             </li>
             {% endif %}
         {% endfor %}
