@@ -1,6 +1,6 @@
-# czue.org
+# www.coryzue.com
 
-The source of czue.org, built in Jekyll.
+The source of [coryzue.com](http://www.coryzue.com), built in Jekyll.
 
 # Building CSS
 
