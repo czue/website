@@ -6,10 +6,12 @@ order: 2
 ---
 <section class="section">
     <div class="container content">
-        <h1 class="title">Blog</h1>
+        <h1 class="title">The Sabbatical</h1>
         <p>Everything I've written about the sabbatical so far.</p>
         <ul class="cz-post-list">
         {% for post in site.posts %}
+            {% if post.category == "sabbatical" %}
+               {% unless post.tags contains "retro" %}
           <li>
             <span class="cz-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h2>
@@ -17,6 +19,19 @@ order: 2
             </h2>
             {{ post.excerpt }}
           </li>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+        </ul>
+        <h2>Weekly Retrospectives</h2>
+        <ul class="cz-post-list">
+        {% for post in site.posts %}
+            {% if post.category == "sabbatical" and post.tags contains "retro" %}
+            <li>
+                <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
+                <span class="cz-post-date"> {{ post.date | date: "%b %-d, %Y" }}</span>
+            </li>
+            {% endif %}
         {% endfor %}
         </ul>
         <p>subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
