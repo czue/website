@@ -866,7 +866,7 @@ a.box:active {
     border-radius: 2px;
     font-size: 0.75rem; }
   .button.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .button.is-large {
     font-size: 1.5rem; }
   .button[disabled], .button.is-disabled {
@@ -992,7 +992,7 @@ input[type="submit"].button {
   .content.is-small {
     font-size: 0.75rem; }
   .content.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .content.is-large {
     font-size: 1.5rem; }
 
@@ -1100,7 +1100,7 @@ input[type="submit"].button {
     font-size: 0.75rem; }
   .input.is-medium,
   .textarea.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .input.is-large,
   .textarea.is-large {
     font-size: 1.5rem; }
@@ -1227,7 +1227,7 @@ input[type="submit"].button {
     border-radius: 2px;
     font-size: 0.75rem; }
   .select.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .select.is-large {
     font-size: 1.5rem; }
   .select.is-fullwidth {
@@ -1373,7 +1373,7 @@ input[type="submit"].button {
   .control.has-icon .input.is-small + .icon {
     font-size: 0.75rem; }
   .control.has-icon .input.is-medium + .icon {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .control.has-icon .input.is-large + .icon {
     font-size: 1.5rem; }
   .control.has-icon:not(.has-icon-right) .icon {
@@ -1576,7 +1576,7 @@ input[type="submit"].button {
   .progress.is-small {
     height: 0.75rem; }
   .progress.is-medium {
-    height: 1.25rem; }
+    height: 1.1rem; }
   .progress.is-large {
     height: 1.5rem; }
 
@@ -1672,7 +1672,7 @@ input[type="submit"].button {
   .tag.is-medium {
     font-size: 1rem; }
   .tag.is-large {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
 
 .title,
 .subtitle {
@@ -1846,7 +1846,7 @@ input[type="submit"].button {
   background-color: whitesmoke;
   border-radius: 290486px;
   display: inline-flex;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   height: 2em;
   justify-content: center;
   margin-right: 1.5rem;
@@ -2470,7 +2470,7 @@ a.nav-item {
   .pagination.is-small {
     font-size: 0.75rem; }
   .pagination.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .pagination.is-large {
     font-size: 1.5rem; }
 
@@ -2810,7 +2810,7 @@ label.panel-block {
   .tabs.is-small {
     font-size: 0.75rem; }
   .tabs.is-medium {
-    font-size: 1.25rem; }
+    font-size: 1.1rem; }
   .tabs.is-large {
     font-size: 1.5rem; }
 
@@ -3963,7 +3963,8 @@ ul.cz-post-list {
   padding-top: 1.5em; }
 
 .cz-post-date {
-  color: #7a7a7a; }
+  color: #7a7a7a;
+  font-size: 0.75rem; }
 
 .cz-post-list h2 {
   margin-top: 0.2em; }
@@ -3972,5 +3973,20 @@ ul.cz-post-list {
 
 .cz-post-list h2 a {
   color: inherit; }
+
+.cz-post {
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.cz-table {
+  font-size: 1rem; }
+
+.cz-instagram {
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto; }
 
 /*# sourceMappingURL=czue.css.map */
