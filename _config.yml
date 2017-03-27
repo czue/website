@@ -30,4 +30,8 @@ exclude:
   - README.md
   - bower_components
   - s3_website.yml
+
+# config of 3rd party services
 google_analytics: UA-94102737-1
+disqus:
+  shortname: czue
