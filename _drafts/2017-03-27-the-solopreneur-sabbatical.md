@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Solopreneur Sabbatical"
-date:   2017-03-28 09:00:00 +0200
+date:   2017-03-28
 category: sabbatical
 excerpt: From CTO to unemployed overnight and what to do next
 banner: cape-town
