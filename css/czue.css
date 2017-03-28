@@ -3986,8 +3986,13 @@ ul.cz-post-list {
   max-width: 740px;
   margin-left: auto;
   margin-right: auto; }
+  .cz-post img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
 
 .cz-post-body {
+  padding-top: 0.5em;
   padding-bottom: 2em; }
 
 .cz-table {
