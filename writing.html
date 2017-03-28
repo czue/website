@@ -12,27 +12,23 @@ order: 2
       </h1>
         <div class="columns">
         <div class="column is-two-thirds">
-            {% for post in site.posts %}
-                {% if post.category == "sabbatical" %}
+            {% for post in site.categories.sabbatical %}
                 <article>
                    <h2 class="title is-4">
                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a><span class="cz-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
                    </h2>
                     {{ post.excerpt }}
                 </article>
-                {% endif %}
             {% endfor %}
         </div>
         <div class="column is-one-third">
             <h2 class="title is-4">Weekly Retros</h2>
             <ul class="cz-post-list">
-            {% for post in site.posts %}
-                {% if post.category == "retro" %}
+            {% for post in site.categories.retros %}
                 <li>
                     <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
                     <span class="cz-post-date-inline"> {{ post.date | date: "%b %-d, %Y" }}</span>
                 </li>
-                {% endif %}
             {% endfor %}
             </ul>
         </div>
