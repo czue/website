@@ -85,14 +85,15 @@ And, like I said, I plan to write about my whole process here.
 
 ## How do you participate?
 
-If you've gotten this far and aren't my wife or my father, wow! Thanks for reading - I'm super excited I kept your attention this long.
+If you've gotten this far and aren't my wife, my father or my former CEO (did I mention Dimagi is great?), wow!
+Thanks for reading - I'm super excited I kept your attention this long.
 
 If you you think like to read more, you can help me by answering this poll which I'll use to inform what to write about next.
 Don't worry - it's totally anonymous and takes 3 seconds.
 
 <a class="cz-poll-link" href='https://www.survey-maker.com' poll='1025421x1d61a356-43' style='width:100%; text-align:right;'>surveys</a>
 
-That's all for now - thanks again for reading!
+That's all for now!
 
 -Cory
 
