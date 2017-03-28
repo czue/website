@@ -35,8 +35,11 @@
                                 <div class="response" id="mce-error-response" style="display:none"></div>
                                 <div class="response" id="mce-success-response" style="display:none"></div>
                             </div>
-                            <div class="clear"><input type="submit" value="Subscribe" name="subscribe"
-                                                      id="mc-embedded-subscribe" class="button is-white is-outlined"></div>
+                            <div class="clear">
+                                <input type="submit" value="Subscribe" name="subscribe"
+                                       id="mc-embedded-subscribe" class="button is-white is-outlined">
+                                <p class="is-pulled-right"><small><a href="{{ '/feed.xml' | relative_url }}">or use RSS</a></small></p>
+                            </div>
                         </div>
                     </form>
                 </div>
@@ -54,6 +57,7 @@
                 <!--End mc_embed_signup-->
                 </div>
             </div>
+
         </div>
     </div>
 </section>
