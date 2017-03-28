@@ -2,18 +2,19 @@
 layout: page
 ---
 <section class="section">
-    <div class="container content is-medium">
+    <div class="container is-medium">
         <article class="post cz-post" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="author publisher" itemscope itemtype="http://schema.org/Person">
                 <meta itemprop="name" content="{{ site.author }}"></meta>
             </meta>
             <header>
-                <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+                <p><h1 class="title is-2" itemprop="name headline">{{ page.title | escape }}</h1></p>
+                <p><h2 class="subtitle is-4">{{ page.excerpt }}</h2></p>
             </header>
             <p>
                 <time class="cz-post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
             </p>
-            <div class="cz-post-body" itemprop="articleBody">
+            <div class="cz-post-body content" itemprop="articleBody">
                 {{ content }}
             </div>
             {% if site.disqus.shortname %}
