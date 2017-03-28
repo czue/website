@@ -81,7 +81,7 @@ and of the ones that do I bet another 80% never earn a dollar off them.
 
 From a more concrete perspective, I expect my next few weeks to be a mix of refining my systems for how to stay on task,
 exploring possible product ideas, and starting to get some feasibility assessments out.
-And, like I said, I plan to write about my whole process here.
+And, like I mentioned, writing about my process here.
 
 ## How do you participate?
 
