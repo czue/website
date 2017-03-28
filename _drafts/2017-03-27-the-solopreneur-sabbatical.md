@@ -5,6 +5,7 @@ date:   2017-03-28
 category: sabbatical
 excerpt: From CTO to unemployed overnight - what now?
 banner: cape-town
+haspoll: true
 ---
 *What was I thinking?*
 
@@ -86,29 +87,13 @@ And, like I said, I plan to write about my whole process here.
 
 If you've gotten this far and aren't my wife or my father, wow! Thanks for reading - I'm super excited I kept your attention this long.
 
-If you want to follow along my journey you should subscribe to receive updates at the bottom of on this page.
-I'll post no more than once a week and only send out things I think are valuable.
+If you you think like to read more, you can help me by answering this poll which I'll use to inform what to write about next.
+Don't worry - it's totally anonymous and takes 3 seconds.
 
-If you've done something like this, or want to do something like this, I'd also love to love to hear from you.
-You can leave a comment or [contact me directly]({% link contact.html %}). I promise to read and respond to everything I get.
+<a class="cz-poll-link" href='https://www.survey-maker.com' poll='1025421x1d61a356-43' style='width:100%; text-align:right;'>surveys</a>
 
-The last request I have is for you to help me figure out what I should write about next.
-I have three topics I'm currently considering:
+That's all for now - thanks again for reading!
 
-* **My day-to-day approach to the sabbatical** -
-how I'm struggling with, and hoping to overcome the pitfalls of laziness and lack of direction
-using tools and tricks learned in my 10 years as CTO.
-* **How I built this website** - using all new technologies to me.
-(If you're curious, the website is made with [Jekyll](https://jekyllrb.com/),
-a static site generator with a template I built on top of the [Bulma CSS framework](http://bulma.io/),
-as well as some 3rd party services like mailchimp.)
-* **A discussion of some of the product ideas I'm considering** -
-and my current best thinking of how I can start evaluating them.
+-Cory
 
-If you enjoyed reading this, please vote in [this poll](https://goo.gl/forms/1GIKuGEYpf5W6aPR2)!
-It is totally anonymous and will take you 3 seconds, and your feedback will be my first data point in understanding
-what's interesting to people.
-
-That's all for now - thanks for reading!
-
-Cory
+*P.S. If you want to follow along my journey you should subscribe to receive updates below.*

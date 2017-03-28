@@ -4033,6 +4033,9 @@ ul.cz-post-list {
   top: -20px;
   color: #dbdbdb; }
 
+.cz-poll-link {
+  display: none; }
+
 #mauritius {
   background-image: url("/images/mauritius-pano.jpg"); }
 
