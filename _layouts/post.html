@@ -9,7 +9,9 @@ layout: page
             </meta>
             <header>
                 <p><h1 class="title is-2" itemprop="name headline">{{ page.title | escape }}</h1></p>
+                {% if page.excerpt %}
                 <p><h2 class="subtitle is-4">{{ page.excerpt }}</h2></p>
+                {% endif %}
             </header>
             <p>
                 <time class="cz-post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
