@@ -4011,6 +4011,12 @@ ul.cz-post-list {
   min-height: 250px; }
   @media screen and (max-width: 768px) {
     .cz-image-banner {
-      min-height: 150px !important; } }
+      min-height: 200px !important; } }
+
+#mauritius {
+  background-image: url("/images/mauritius-pano.jpg"); }
+
+#cape-town {
+  background-image: url("/images/cape-town-pano.jpg"); }
 
 /*# sourceMappingURL=czue.css.map */

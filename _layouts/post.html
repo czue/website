@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+{% if page.banner %}
+<section class="cz-image-banner" id="{{ page.banner }}"></section>
+{% endif %}
 <section class="section">
     <div class="container is-medium">
         <article class="post cz-post" itemscope itemtype="http://schema.org/BlogPosting">

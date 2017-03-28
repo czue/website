@@ -97,10 +97,16 @@ ul.cz-post-list
 
 
 .cz-image-banner
-  background-image:    url('/images/mauritius-pano.jpg')
+  background-image:    url('/images/mauritius-pano.jpg')  // default if not specified
   background-size:     cover
   background-repeat:   no-repeat
   background-position: center center
   min-height: 250px
   +mobile
     min-height: 200px !important
+
+#mauritius
+  background-image:    url('/images/mauritius-pano.jpg')
+
+#cape-town
+  background-image:    url('/images/cape-town-pano.jpg')
