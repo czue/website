@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! bulma.io v0.4.0 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -4012,6 +4013,25 @@ ul.cz-post-list {
   @media screen and (max-width: 768px) {
     .cz-image-banner {
       min-height: 200px !important; } }
+
+.cz-post blockquote {
+  font-family: Georgia, serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 0.25em 0;
+  padding: 0.35em 40px;
+  line-height: 1.45;
+  position: relative; }
+
+.cz-post blockquote:before {
+  display: block;
+  padding-left: 10px;
+  content: "“";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  color: #dbdbdb; }
 
 #mauritius {
   background-image: url("/images/mauritius-pano.jpg"); }

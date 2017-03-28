@@ -105,6 +105,28 @@ ul.cz-post-list
   +mobile
     min-height: 200px !important
 
+// stolen/modified from http://stackoverflow.com/a/16326442/8207
+.cz-post blockquote
+  font-family: Georgia, serif
+  font-size: $size-4
+  font-style: italic
+  margin: 0.25em 0
+  padding: 0.35em 40px
+  line-height: 1.45
+  position: relative
+
+.cz-post blockquote:before
+  display: block
+  padding-left: 10px
+  content: "\201C"
+  font-size: 80px
+  position: absolute
+  left: -20px
+  top: -20px
+  color: #dbdbdb
+
+
+// banners
 #mauritius
   background-image:    url('/images/mauritius-pano.jpg')
 
