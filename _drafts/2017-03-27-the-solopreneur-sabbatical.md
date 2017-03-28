@@ -10,9 +10,10 @@ banner: cape-town
 
 It's 4:43pm on March 20th, 2017. I'm less than 1 day into my 6-month sabbatical and I'm feeling a bit lost.
 
-Sabbatical is a great word. "Unpaid sabbatical." It sounds so impressive; so academic; so professional; so *le3gitimate*. It doesn't sound quite so impressive if you use some of the other words that mean the same thing. Vacation. *Unemployment*.
+Sabbatical is a great word. "Unpaid sabbatical." It sounds so impressive; so academic; so professional; so *legitimate*.
+It doesn't sound quite so impressive if you use some of the other words that mean the same thing. Vacation. *Unemployment*.
 
-How did I end up sitting on my couch, unemployed, staring at a computer with nothing to do? And what do I do now?
+How did I end up sitting on my couch, unemployed, staring at a computer with nothing to do? And what am I going to do now?
 
 ## Backstory
 
@@ -20,19 +21,37 @@ Let's journey back in time a bit.
 
 Towards the end of 2016, as I approached my 10-year anniversary as CTO of [Dimagi](http://dimagi.com/) I found myself feeling like I was in a rut.
 
-I was still deeply invested in my work, but no longer feeling deeply excited. I was working long and stressful hours, but without the corresponding boost of energy and fulfillment that I was accustomed to coming alongside hard work. As the organization, the team, and the responsibilities grew around me, so too did the demands on my time - leaving me with very little time to proactively build things - something I have always cherished. Somewhere along the line I had gone from [maker to manager](http://www.paulgraham.com/makersschedule.html) and didn't know how to go back.
+I was still deeply invested in my work, but no longer feeling deeply excited.
+I was working long and stressful hours, but without the energy and excitement that had long characterized my work.
+As the organization, the team, and the responsibilities grew around me, so too did the demands on my time -
+leaving me with very little time to proactively build things - something I have always cherished.
+Somewhere along the line I had gone from [maker to manager](http://www.paulgraham.com/makersschedule.html) and didn't know how to go back.
 
-That was when I knew I needed a change. I wanted to experience the joy of building something again. The joy of discovery - of doing something totally new and different. The joy of controlling my own time, and my own direction. *My own life.*
+I decided I needed a change. I wanted to experience the joy of building something again.
+The joy of discovery - of doing something totally new and different.
+The joy of controlling my own time, my own direction, *my own life*.
 
-Dimagi was kind enough to give me six months off - no questions asked - and the solopreneur sabbatical was born.
+Dimagi was kind enough to give me six months off - no questions asked - and my solopreneur sabbatical was born.
 
-## A solopreneur sabbatical
+## A Solopreneur Sabbatical
 
-At this point you might be wondering "what is a solopreneur sabbatical?". Let me first explain what a solopreneur is. A solopreneur is an entrepreneur who - unlike most entrepreneurs - is in it for the lifestyle instead of the money. Someone who wants to "go it alone" instead of building an empire. It's a word that's becoming [increasingly](#fixme) [common](#fixme) among freelancers and lifestyle enthusiasts around the world.
+At this point you might be wondering "what is a solopreneur sabbatical?"
 
-When I first came across the term I knew it was exactly what I was looking for. I don't want to join an incubator, raise a bunch of money, or sell my company to Google. I don't want to hire people, experience exponential growth, or be "disruptive". What I want to do is make something a few people love, work on my own terms, and earn enough money to live how I want.
+Let me first explain what a solopreneur is in case you're unfamiliar with the term.
+A solopreneur is an entrepreneur who - unlike most entrepreneurs - is in it for the lifestyle and not the money.
+Someone who wants to "go it alone" instead of building an empire.
+It's a word that's becoming [increasingly](https://www.entrepreneur.com/article/245766) [common](https://smartsolos.com/solopreneurs-and-entrepreneurs-difference/) among freelancers and lifestyle enthusiasts around the world.
 
-At the end of the day, all I really want is to be happy. And my current best guess at what that would mean is working as much as I choose to, doing things I love, and leading a rich life outside of work.
+{:.cz-blockquote}
+> A solopreneur is an entrepreneur who  - unlike most entrepreneurs - is in it for the lifestyle and not the money.
+
+When I first came across the term I knew it was exactly what I was interested in.
+I don't want to join an incubator, raise a bunch of money, or sell a company to Google.
+I don't want to hire people, experience exponential growth, or be "disruptive".
+What I want to do is make something good for the world, work on my own terms, and earn enough money to live how I want.
+
+At the end of the day, all I really want is to be happy.
+And my current best guess at what that would mean is working as much as I choose to, doing things I love, and leading a rich life outside of work.
 
 ## What are my plans so far?
 
