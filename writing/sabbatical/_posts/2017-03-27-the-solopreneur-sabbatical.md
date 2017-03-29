@@ -88,7 +88,7 @@ And, like I mentioned, writing about my process here.
 If you've gotten this far and aren't my wife, my father or my former CEO (did I mention Dimagi is great?), wow!
 Thanks for reading - I'm super excited I kept your attention this long.
 
-If you you think like to read more, you can help me by answering the poll below which I'll use to inform what to write about next.
+If you think you'd like to read more, you can help me by answering the poll below which I'll use to inform what to write about next.
 Don't worry - it's totally anonymous and takes 3 seconds.
 
 That's all for now!
