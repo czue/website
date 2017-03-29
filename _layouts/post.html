@@ -23,6 +23,7 @@ layout: page
             <div class="cz-post-body content" itemprop="articleBody">
                 {{ content }}
             </div>
+            {% include social.html %}
             {% if site.disqus.shortname %}
                 {% include disqus_comments.html %}
             {% endif %}

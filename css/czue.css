@@ -3951,9 +3951,14 @@ a:hover {
 .cz-icon a {
   padding: 0.5em;
   color: inherit; }
+  .cz-icon a:hover {
+    color: #00d1b2; }
 
-.cz-icon a:hover {
-  color: #00d1b2; }
+.cz-social a {
+  padding: 0.2em;
+  color: #7a7a7a; }
+  .cz-social a:hover {
+    color: #4a4a4a; }
 
 .cz-image-caption {
   text-align: center;
