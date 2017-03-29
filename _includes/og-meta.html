@@ -1,0 +1,9 @@
+{% comment %}see https://blog.kissmetrics.com/open-graph-meta-tags/ for documentation on og properties{% endcomment %}
+{% comment %}check if page or post using http://stackoverflow.com/a/14090469/8207{% endcomment %}
+<meta property=”og:type” content="{% if page.id %}article{% else %}website{% endif %}" />
+<meta property=”og:url” content="{{ page.url | absolute_url }}" />
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+{% else %}
+<meta property="og:image" content="{{ '/images/czue-gravatar.jpg' | absolute_url }}" />
+{% endif %}
