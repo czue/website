@@ -13,12 +13,14 @@ order: 2
         <div class="columns">
         <div class="column is-two-thirds">
             {% for post in site.categories.sabbatical %}
+                {% unless post.is_draft and jekyll.environment == "production" %}
                 <article class="cz-post-listing">
                    <h2 class="title is-4">
                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }} </a><span class="cz-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
                    </h2>
                    {{ post.excerpt }}
                 </article>
+                {% endunless %}
             {% endfor %}
         </div>
         <div class="column is-one-third">
