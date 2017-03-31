@@ -2,3 +2,4 @@
 ---
 User-agent: *
 Disallow: {% link subscription/confirm.html %}
+Sitemap: {{ site.url }}/sitemap.xml
