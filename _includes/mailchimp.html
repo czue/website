@@ -53,7 +53,35 @@
                     fnames[1] = 'FNAME';
                     ftypes[1] = 'text';
                 }(jQuery));
-                var $mcj = jQuery.noConflict(true);</script>
+                var $mcj = jQuery.noConflict(true);
+                {% if jekyll.environment == 'production' and site.google_analytics %}
+                // google analytics: https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits
+                var form = document.getElementById('mc-embedded-subscribe-form');
+                form.addEventListener('submit', function(event) {
+                  // Prevents the browser from submitting the form and thus unloading the current page.
+                  event.preventDefault();
+                  // Creates a timeout to call `submitForm` after one second.
+                  setTimeout(submitForm, 1000);
+                  // Keeps track of whether or not the form has been submitted.
+                  // This prevents the form from being submitted twice in cases
+                  // where `hitCallback` fires normally.
+                  var formSubmitted = false;
+
+                  function submitForm() {
+                    if (!formSubmitted) {
+                      formSubmitted = true;
+                      form.submit();
+                    }
+                  }
+
+                  // Sends the event to Google Analytics and
+                  // resubmits the form once the hit is done.
+                  ga('send', 'event', 'Newsletter Signup Form', 'submit', {
+                    hitCallback: submitForm
+                  });
+                });
+                {% endif %}
+                </script>
                 <!--End mc_embed_signup-->
                 </div>
             </div>
