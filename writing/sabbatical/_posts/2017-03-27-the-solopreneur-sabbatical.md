@@ -28,7 +28,7 @@ As the organization, the team, and the responsibilities grew around me, so too d
 I suddenly found myself with very little control over my own time or my own work.
 Somewhere along the line I had gone from [maker to manager](http://www.paulgraham.com/makersschedule.html) and didn't know how to go back.
 
-{:.cz-blockquote}
+{:.cz-big-quote}
 > Somewhere along the line I had gone from maker to manager and didn't know how to go back.
 
 I decided I needed a change. I wanted to experience the joy of building something again.
@@ -47,7 +47,7 @@ A solopreneur is an entrepreneur who - unlike most entrepreneurs - is in it for 
 Someone who wants to "go it alone" instead of building an empire.
 It's a word that's becoming [increasingly](https://www.entrepreneur.com/article/245766) [common](https://smartsolos.com/solopreneurs-and-entrepreneurs-difference/) among freelancers and lifestyle enthusiasts around the world.
 
-{:.cz-blockquote}
+{:.cz-big-quote}
 > A solopreneur is an entrepreneur who  - unlike most entrepreneurs - is in it for the lifestyle and not the money.
 
 When I first came across the term I was thrilled to finally have a word that perfectly represented my own interests.

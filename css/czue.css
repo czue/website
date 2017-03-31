@@ -4024,7 +4024,7 @@ ul.cz-post-list {
     .cz-image-banner {
       min-height: 200px !important; } }
 
-.cz-post blockquote {
+.cz-post blockquote.cz-big-quote {
   font-family: Georgia, serif;
   font-size: 1.5rem;
   font-style: italic;
@@ -4033,7 +4033,7 @@ ul.cz-post-list {
   line-height: 1.45;
   position: relative; }
 
-.cz-post blockquote:before {
+.cz-post blockquote.cz-big-quote:before {
   display: block;
   padding-left: 10px;
   content: "“";
