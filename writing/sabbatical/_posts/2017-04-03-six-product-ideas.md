@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Six Product Ideas"
-date:   2017-03-30
+date:   2017-04-03
 category: sabbatical
 excerpt: A first batch of ideas for products I'm considering making
 haspoll: true
