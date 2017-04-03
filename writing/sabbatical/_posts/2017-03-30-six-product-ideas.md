@@ -4,7 +4,6 @@ title:  "Six Product Ideas"
 date:   2017-03-30
 category: sabbatical
 excerpt: A first batch of ideas for products I'm considering making
-is_draft: true
 haspoll: true
 ---
 {:.cz-weak}
