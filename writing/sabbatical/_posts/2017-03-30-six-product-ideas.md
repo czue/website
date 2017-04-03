@@ -13,7 +13,7 @@ If you didn't read the [first installment]({% post_url writing/sabbatical/2017-0
 
 At the end of last week's post I asked you, my readers, what you wanted to hear about next.
 
-And you have answered!
+And you answered!
 
 ![First poll results](/images/six-ideas/poll-results.png)
 
@@ -55,7 +55,7 @@ One day at work I became interested in understanding our user mailing list bette
 I was interested in learning things like "who is the most frequent poster", "what times of day do people post",
 and "how has the list traffic changed over time".
 Thinking about this more I realized I've also had similar curiosity about our skype and slack rooms, as well as my social chats on whatsapp, groupme,
-and that other messaging platform that all the cool kids are using that shows I'm not out of touch yet (you know the one).
+and that other messaging platform that all the kids are using that proves I'm not out of touch yet (you know the one).
 
 ![YouFace](/images/six-ideas/youface.png)
 
@@ -69,10 +69,10 @@ It seemed like there might be a way to leverage the data-uniformity of all these
 Unfortunately, I have no idea how I'd monetize this or possibly even build it without violating the terms of service of
 all those different platforms.
 
-## 2b. Commit Stats
+## 3. Commit Stats
 
 This is a riff on the concept above that might have more traction.
-This idea came from a friend of mine who's been a stats researcher and software developer for many years.
+This idea came from a friend of mine who's been a stats researcher and software developer for many years (hi, Andrew!).
 This was his pitch to me, verbatim:
 
 > Git repositories hold a lot of interesting unstructured data about how software is built.
@@ -80,13 +80,13 @@ This was his pitch to me, verbatim:
 
 I love this idea because it's so relevant to what I've been doing for the last 10 years, and my old company has a treasure trove of open-source
 git repositories I could use as a starting point for data analysis.
-I also think it'd be super fun ot explore.
+I also think it'd be super fun to explore.
 
 Again, what's less clear to me is exactly what the path to monetization would be here.
 What could I build that companies or developers would want to pay for?
 It's also a bit terrifying to try and build something that might compete with [Github](https://github.com/).
 
-## 3. Dive Log for Casuals
+## 4. Dive Log for Casuals
 
 On our recent honeymoon, my wife and I did a lot of scuba diving, and of course we wanted to record our dives.
 However, we're total casual divers. We don't care about bottom time and max depth or anything like that.
@@ -161,9 +161,16 @@ In theory you could also specify something like "dinner" and a price range, and 
 
 Alright, now here's where you come in. I'd love to get your input on the six ideas I've listed.
 Dare I ask you to... pick a favorite?
+
+Keep in mind that ideally you'd be voting on not just what you'd like to see in the world the most, but what you think has the best chance of *earning revenue*.
+
 Just like last time this is totally anonymous and takes 3 seconds.
 
 <a class="cz-poll-link" href='https://www.survey-maker.com' poll='1028726x96B28005-43' style='width:100%; text-align:right;'>surveys</a>
+
+That's all for now.
+
+-Cory
 
 *Got a great product idea of your own you'd like to share?
 Got any stories or input on any of these or want to see one get built?
