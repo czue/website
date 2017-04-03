@@ -3,7 +3,7 @@ layout: post
 title:  "Six Product Ideas"
 date:   2017-04-03
 category: sabbatical
-excerpt: A first batch of ideas for products I'm considering making
+excerpt: Planning weddings, building better software, and Pokémon: a first batch of ideas for products I'm considering making
 haspoll: true
 ---
 {:.cz-weak}
