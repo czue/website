@@ -58,27 +58,9 @@
                 // google analytics: https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits
                 var form = document.getElementById('mc-embedded-subscribe-form');
                 form.addEventListener('submit', function(event) {
-                  // Prevents the browser from submitting the form and thus unloading the current page.
-                  event.preventDefault();
-                  // Creates a timeout to call `submitForm` after one second.
-                  setTimeout(submitForm, 1000);
-                  // Keeps track of whether or not the form has been submitted.
-                  // This prevents the form from being submitted twice in cases
-                  // where `hitCallback` fires normally.
-                  var formSubmitted = false;
-
-                  function submitForm() {
-                    if (!formSubmitted) {
-                      formSubmitted = true;
-                      form.submit();
-                    }
-                  }
-
-                  // Sends the event to Google Analytics and
-                  // resubmits the form once the hit is done.
-                  ga('send', 'event', 'Newsletter Signup Form', 'submit', {
-                    hitCallback: submitForm
-                  });
+                  // mailchimp is actually handling everything in its own event listener so all you need to do is
+                  // log the GA event and not worry about the form submission business
+                  ga('send', 'event', 'Newsletter Signup Form', 'submit', {});
                 });
                 {% endif %}
                 </script>
