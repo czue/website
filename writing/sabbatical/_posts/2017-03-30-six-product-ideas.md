@@ -18,10 +18,10 @@ And you answered!
 ![First poll results](/images/six-ideas/poll-results.png)
 
 {:.cz-image-caption}
-Hey, only one person thinks I stink! Sweet!
+Hey, only one person thinks I stink! Score!
 
 So, at your request, I've written up a list of ideas I'm considering working on.
-These range anywhere from things I've had in the back of my mind for a few months to things that came up literally yesterday.
+These range anywhere from things I've had in the back of my mind for a few months to things that came up in response to my first post.
 
 I should caveat that most of these ideas solve decidedly first-world problems - some to an almost embarrassing degree.
 For now, I've decided that I'm ok with working on a first world problem, since those problems are the ones that I understand the best
@@ -37,9 +37,9 @@ A common thing that happened in these weddings?
 Two or three days before the big day a bunch of people - usually including the bride and/or groom -
 sat together in a room making place cards for the table settings!
 Can you imagine how many brides-to-be, maids-of-honor, and future-brother-in-laws are making place cards the day before their wedding?
-Insanity!
+Insanity.
 
-What we would have wanted for our wedding was a site that let us create beautiful place cards including things like table names and meal choices -
+What we would have wanted for our wedding was **a site that let us easily create beautiful place cards** including things like table names and meal choices -
 ideally super quickly and easily from a spreadsheet of guests that we already had.
 We also would have needed this site to have super-fast turnaround times, since of course we waited until the last minute to finalize our guest list and seating chart.
 We would have taken an express shipping or a print-at-home option.
@@ -64,7 +64,7 @@ If you want to get in touch just fingertag me on YouFace
 
 
 It seemed like there might be a way to leverage the data-uniformity of all these different types of communication systems
-(they all have a person, a date, and some text) and create a platform that could be used by people to dig into the data.
+(they all have a person, a date, and some text) and create **a platform that could be used by people to dig into their chat data**.
 
 Unfortunately, I have no idea how I'd monetize this or possibly even build it without violating the terms of service of
 all those different platforms.
@@ -90,14 +90,12 @@ It's also a bit terrifying to try and build something that might compete with [G
 
 On our recent honeymoon, my wife and I did a lot of scuba diving, and of course we wanted to record our dives.
 However, we're total casual divers. We don't care about bottom time and max depth or anything like that.
-We just want to know where we were, the cool stuff we saw, and maybe add some pictures from the day.
+**We just want to know where we were, the cool stuff we saw, and maybe add some pictures from the day.**
 And of course I want that app to sync to the cloud and create a nice page I can visit to look through my dive history and remember those trips.
 And probably share it with friends?
 
 None of the apps out there do anything close to this, and the usability of all of them leaves a lot to be desired.
 I imagine this app would also have to work offline - since you're usually diving in a place without internet.
-I actually think Dimagi's product [CommCare](https://www.commcarehq.org/home/) would be a great platform to build the MVP of this on -
-though the finished product would definitely need a more polished UX.
 
 ![Eagle Ray](/images/six-ideas/eagle-ray.jpg)
 
@@ -130,10 +128,11 @@ But I get such an odd kick out of it! I just open up the app on my phone when I'
 
 Phew. Ok, now that that's out of the way I can talk about this idea.
 A while back I saw this thing that someone on reddit made that he called [the photodex](http://jtatomico.photodex.io/) that I thought was really fun.
-It's a way for people to track and show off the Pokémon they find in the real world.
+**It's a way for people to track and show off the Pokémon they find in the real world.**
 
 I think this could be something that some set of hardcore Pokémon players would love to use - and possibly pay for.
-If people are spending gagillions of dollars on Pokémon Go I imagine they are willing to spend some money improving that experience and getting bragging rights?
+If people are spending gagillions of dollars on Pokémon Go I imagine they are willing to spend a small amount of money
+improving that experience and getting bragging rights?
 
 It'd likely have to be a mobile app and it'd have to have a great user experience.
 
@@ -162,7 +161,7 @@ In theory you could also specify something like "dinner" and a price range, and 
 Alright, now here's where you come in. I'd love to get your input on the six ideas I've listed.
 Dare I ask you to... pick a favorite?
 
-Keep in mind that ideally you'd be voting on not just what you'd like to see in the world the most, but what you think has the best chance of *earning revenue*.
+Keep in mind that you should be voting on not just what you'd like to see in the world the most, but what you think has the best chance of *earning revenue*.
 
 Just like last time this is totally anonymous and takes 3 seconds.
 
@@ -173,7 +172,7 @@ That's all for now.
 -Cory
 
 *Got a great product idea of your own you'd like to share?
-Got any stories or input on any of these or want to see one get built?
+Got any stories or input on any of these?
 Share your thoughts in the comments or by [reaching out]({% link contact.html %})!*
 
 *If you want to keep following along with my journey you should subscribe for updates below!*
